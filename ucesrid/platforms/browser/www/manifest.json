@@ -3,7 +3,7 @@
   "display": "standalone",
   "name": "helloworld",
   "short_name": "helloworld",
-  "version": "week4",
+  "version": "week4firsttry",
   "description": "Hello World sample application that responds to the deviceready event.",
   "author": "PhoneGap Team",
   "icons": [],
